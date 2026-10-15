@@ -1,0 +1,44 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f7f2;
+    color: #26382c;
+    margin: 0;
+}
+
+header h1 {
+    color: #247342;
+    font-weight: bold;
+}
+
+header p {
+    color: #5b6b60;
+}
+
+.card {
+    border: none;
+    border-radius: 16px;
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.btn-success {
+    background-color: #247342;
+    border-color: #247342;
+}
+
+.btn-success:hover {
+    background-color: #18552f;
+}
+
+#result {
+    color: #247342;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
